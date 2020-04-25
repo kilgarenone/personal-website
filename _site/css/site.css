@@ -20,8 +20,11 @@ body {
 
 .notes h1 {
   font-size: 1.7rem;
+  margin-bottom: 1rem;
 }
-
+.notes li {
+  padding: 3px 0;
+}
 .notes ul {
   list-style: square;
 }
