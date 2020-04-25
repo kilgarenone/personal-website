@@ -1,0 +1,34 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  background-color: #fff;
+  color: #111;
+  font-size: 110%;
+  max-width: 35rem;
+  padding: 3rem;
+  margin: 0 auto;
+  scroll-behavior: smooth;
+  text-rendering: optimizeLegibility;
+}
+
+.notes h1 {
+  font-size: 1.7rem;
+  margin-bottom: 1rem;
+}
+
+.notes ul {
+  list-style: square;
+}
+.notes li {
+  padding: 3px 0;
+}
+.notes a {
+  margin-right: 0.5rem;
+}
