@@ -1,8 +1,6 @@
 ---
-layout: post-layout.njk
 title: Humane personal finance guide
 date: 2018-11-20
-tags: ["post"]
 ---
 
 This article doesn’t contain any ‘pro-tips’ or ‘methods’ or ‘analysis’ on gaining from the stock market quickly. No, rather, this is an investment guide for average people who don’t — or won’t or can’t — participate actively and emotionally in the stock markets.
@@ -169,6 +167,4 @@ You are supposed to hold your market portfolio forever, only withdrawing it when
 
 - Stay healthy. Eat well. Exercise regularly. Good quantity and quality of sleep. Drink more water.
 
-One baby step at a time.
-
-Good luck.
+Good luck and take care. ●

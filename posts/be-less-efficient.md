@@ -1,8 +1,6 @@
 ---
-layout: post-layout.njk
 title: Be less efficient, but more civilized
 date: 2019-11-10
-tags: ["post"]
 ---
 
 The world is out of control. Humanity — from individual to groups to nation-state level — is doing all sorts of preternatural activities in the name of ‘innovation’, ‘competitive disruption’, ‘economic growth’, ‘self-help’ etc.
@@ -25,4 +23,4 @@ Ultimately, we lose the social intuitions because we have stopped reinventing th
 
 The solutions to stop the contagiousness of this efficiency narrative are an unnatural one. We need to start holding our actions accountable to ethics and sustainability. Tech startups need to dial back on their scaling and their bogus narratives abetted by cheap money. Grow slowly. Bound the spill-over of your repercussions. Work with the government and communities. It’s a frustrating, inefficient process but a responsible process. And contrary to the free-market zealot, we need more government regulation. They might be wasteful and inefficient, but at least the system is **robust** and **just**. We need more taxes. Taxes on generational wealth. Carbon taxes. Start putting a price on externalities. We need inefficient and slow enforcement. GDP will go down. We will see less iteration of iPhones. We will become poorer. But we trade all that for a breathable, robust and just world until humans become interstellar species.
 
-Thinking along these ideals won’t be palatable to us because we are largely not wired for that. But it is our only chance to really have a better world. If we refused to do so, we need to rightly tell it like it is — We don’t really buy into our whole narrative of building a better world, and instead, what we really ever believed in was our selfish personal achievements, in our own lifetime, at all costs, by any means necessary — That would be what all that really was. Period.
+Thinking along these ideals won’t be palatable to us because we are largely not wired for that. But it is our only chance to really have a better world. If we refused to do so, we need to rightly tell it like it is — We don’t really buy into our whole narrative of building a better world, and instead, what we really ever believed in was our selfish personal achievements, in our own lifetime, at all costs, by any means necessary — That would be what all that really was. Period. ●

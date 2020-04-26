@@ -6,7 +6,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("dateReadable", (date) => {
     return new Date(date).toLocaleString("en-US", {
       year: "numeric",
-      month: "short",
+      month: "long",
       day: "numeric",
     });
   });
