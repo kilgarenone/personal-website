@@ -36,7 +36,7 @@ layout: base-layout.njk
 <div class="notes">
   <h1>Notes</h1>
   <ul>
-    {% for post in collections.post %}
+    {% for post in collections.post | reverse %}
     <li>
       <a href="{{ post.url | url }}">
         {{ post.data.title }}
