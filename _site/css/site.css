@@ -10,7 +10,8 @@ body {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   background-color: #fff;
   color: #111;
-  font-size: 110%;
+  font-size: 120%;
+  line-height: 1.5;
   max-width: 35rem;
   padding: 3rem;
   margin: 0 auto;
@@ -30,4 +31,20 @@ body {
 }
 .notes a {
   margin-right: 0.5rem;
+}
+
+article > * + * {
+  margin-top: 1.5rem;
+}
+article h1 {
+  font-size: 3rem;
+  line-height: 1.2;
+}
+
+blockquote {
+  border-left: 6px solid #111;
+  padding-left: 1.3rem;
+  font-style: italic;
+  font-size: 1.4rem;
+  margin-left: 2rem;
 }

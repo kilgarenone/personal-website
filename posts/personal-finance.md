@@ -9,7 +9,7 @@ This article doesn’t contain any ‘pro-tips’ or ‘methods’ or ‘analysi
 
 I will try to articulate few of my _current_ thought patterns that have guided me on managing and thinking about my personal finance. So please tread carefully with _open-minded_ skepticism. 🌈
 
-### The world is insanely complex
+## The world is insanely complex
 
 You will find academic papers, pundit blog posts, articles, smackdown on Bloomberg etc. that ostensibly came to a conclusion on a financial affair. Now _ideally_, you would want to review their accuracy yourself or refer to a trusted journal. But, can you trust yourself or even the journalists being completely infallible at all times?
 
@@ -21,9 +21,11 @@ If the answer was as ‘Nope’ as mine was, then what I tend to do now is to re
 
 - The media needed to dramatize their show to increase viewership and hence advertisement.
 
-You might think that modeling methods like the **Monte Carlo simulation** or **backtesting** could guide our financial decision making. Yes, in a broad sense, modeling is really the best tool we have at our disposal to *approximate *the complex reality. However, we need to be aware of its potential pitfalls:
+You might think that modeling methods like the **Monte Carlo simulation** or **backtesting** could guide our financial decision making. Yes, in a broad sense, modeling is really the best tool we have at our disposal to _approximate_ the complex reality.
 
-- The issue of **overfitting **—Having a model that seemingly traces the historical data points nicely, but extremely unreliable to predict the future.
+However, we need to be aware of its potential pitfalls:
+
+- The issue of **overfitting**—Having a model that seemingly traces the historical data points nicely, but extremely unreliable to predict the future.
 
 - Determination of the **complexity sweet spot** — for example, the number of relevant factors that we need to take into account of to make a confident prediction.
 
@@ -45,13 +47,13 @@ But we tend to think along these lines instead:
 
 To understand how those thought patterns came about, we need to now shed light on our human nature that are often taken advantage by today’s special interest groups. 😧
 
-### We are born with cognitive biases
+## We are born with cognitive biases
 
 It has been [well-documented](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18) that humans are prone to perceive and make judgements that are, in hindsight, irrational.
 
 In a blink of an eye on our evolutionary timeline, we have constructed a world that is conducive to amplifying our instincts to our own detriments.
 
-For example, the mutual fund industry has been largely [driven by salesmanship](http://johncbogle.com/wordpress/wp-content/uploads/2007/05/FIASI_4-07.pdf), ever more so steering away from the spirit and duty of stewardship in serving investors’ best interest. And one surefire way to increase sales of fund’s shares is to trip up our emotions, perception, and fears of uncertainty. For example, [a fund would commit the **Survivalship Bias**](https://www.investopedia.com/articles/02/013002.asp)by removing, merging, and even renaming their under-performing funds in their report, giving the impression to potential investors that ‘wow! next year gonna be a good year too!’, thus making us well primed to buy into the fund.
+For example, the mutual fund industry has been largely [driven by salesmanship](http://johncbogle.com/wordpress/wp-content/uploads/2007/05/FIASI_4-07.pdf), ever more so steering away from the spirit and duty of stewardship in serving investors’ best interest. And one surefire way to increase sales of fund’s shares is to trip up our emotions, perception, and fears of uncertainty. For example, [a fund would commit the Survivalship Bias](https://www.investopedia.com/articles/02/013002.asp) by removing, merging, and even renaming their under-performing funds in their report, giving the impression to potential investors that ‘wow! next year gonna be a good year too!’, thus making us well primed to buy into the fund.
 
 Another sign of the time screaming salesmanship in the fund industry is the niche industry sector like clean-energy funds, or personality targeted ‘I wanna signal I have a moral high ground’ funds, or beta whatever it means funds. All of these products were designed to aid and abet to our worst instincts — and, we know that selling often go hand in hand with advertising, and guess who ends up paying for all that initiatives? Yes, you! The fund’s investor.
 
@@ -63,13 +65,13 @@ We might then be tempted to provide it context, trying to give it a 'body’, a 
 
 Now, for argument’s sake, let’s pretend we weren’t susceptible to cognitive biases at all. Which brings us to luck…
 
-### Luck
+## Luck
 
 Luck is an underestimated factor in many aspects of human affair — From being born with great or average looks, savant or mediocre intellectual capacity and ability, into good or abusive family, into stimulating or slummy places, to the resultant extent of exploration or exploitation of an environment that will shape who you are and position in society, and to finally, the performances of a mutual fund manager.
 
-It’s well known that the majority — [in the ballpark of 80–90%](https://us.spindices.com/documents/spiva/spiva-us-mid-year-2017.pdf) — of actively managed funds will [under-perform their benchmarks](https://www.ft.com/content/6b2d5490-d9bb-11e6-944b-e7eb37a6aa8e) over a 5 to 10 years period. Mutual fund managers are humans too, and as discussed, they are undoubtedly shackled to their human nature in responding to fears, uncertainty, and incentives, all of which are culminated in timing the markets and huge portfolio turnover, and thereby incurring unnecessary costs and taxes on us!
+It’s well known that the majority — [in the ballpark of 80–90%](https://us.spindices.com/documents/spiva/spiva-us-mid-year-2017.pdf) — of  actively managed funds will [under-perform their benchmarks](https://www.ft.com/content/6b2d5490-d9bb-11e6-944b-e7eb37a6aa8e) over a 5 to 10 years period. Mutual fund managers are humans too, and as discussed, they are undoubtedly shackled to their human nature in responding to fears, uncertainty, and incentives, all of which are culminated in timing the markets and huge portfolio turnover, and thereby incurring unnecessary costs and taxes on us!
 
-Mutual fund managers, like Peter Lynch, who can consistently out-perform benchmark over the long term is *extremely *rare. Not only you need to pick the right manager, the manager herself would need to be picking stocks at the right time and place, be able to digest tons of information to build an accurate narrative consistently, and pull it off year after year. This is not something a mere mortal with 9–5 job is capable of even though for no reason they ended up on the right side of luck! 🐧
+Mutual fund managers, like Peter Lynch, who can consistently out-perform benchmark over the long term is _extremely_ rare. Not only you need to pick the right manager, the manager herself would need to be picking stocks at the right time and place, be able to digest tons of information to build an accurate narrative consistently, and pull it off year after year. This is not something a mere mortal with 9–5 job is capable of even though for no reason they ended up on the right side of luck!
 
 ## Financial planning
 
@@ -81,7 +83,7 @@ Well, the answer is to just don’t play the [loser’s game](https://www.busine
 
 Alright, here is how we are going to do it.
 
-### Split your money into stocks and bonds
+## Split your money into stocks and bonds
 
 First of all, you would find some people advocating for exercising asset allocation as a first step to your investment journey. There is a few school of thoughts on how to go about it.
 
@@ -89,21 +91,21 @@ One popular approach is to split your fund allocation percentages based on which
 
 Another popular approach is allocate a percentage of whatever your current age is into bonds, and the rest goes to stocks. For example, if you are 25 years old, then you will invest 25% into bonds and 75% into stocks.
 
-However, I would\*\* **just do **50% in bonds and 50% in stocks\*\*. You might be thinking “wut, fiddy-fiddy?? you serious?!”. But a simple heuristic like that is actually one of the few best strategies to coping in a complex world. Harry Markowitz, pioneer of the ‘modern porfolio theory’ that won him Nobel prize , alluded to this effect [as well](http://jasonzweig.com/what-harry-markowitz-meant/):
+However, I would just do 50% in bonds and 50% in stocks. You might be thinking “wut, fiddy-fiddy?? you serious?!”. But a simple heuristic like that is actually one of the few best strategies to coping in a complex world. Harry Markowitz, pioneer of the ‘modern porfolio theory’ that won him Nobel prize , alluded to this effect [as well](http://jasonzweig.com/what-harry-markowitz-meant/):
 
 > I should have computed the historical co-variances of the asset classes and drawn an efficient frontier. Instead, I visualized my grief if the stock market went way up and I wasn’t in it–or if it went way down and I was completely in it. My intention was to minimize my future regret. So I split my contributions 50/50 between bonds and equities.
 
-But, you know, you could always tilt towards stocks if it doesn’t prevent you from a sound sleep at night. 🌓
+But, you know, you could always tilt towards stocks if it doesn’t prevent you from a sound sleep at night.
 
-### Choose a cheap broker
+## Choose a cheap broker
 
 Now you are going to need a funds provider or broker to invest your money.
 
 If you are lucky to have Vanguard operating in where you live, then go for it! Otherwise, choose a broker with no hidden but transparent fees.
 
-Personally, I don’t have access to Vanguard, so I went with **TD Ameritrade **which charges only for a fee of 6.95USD per trade. That’s it. No inactivity fees or fees that incentivize active trading of your portfolio.
+Personally, I don’t have access to Vanguard, so I went with TD Ameritrade which charges only for a fee of 6.95USD per trade. That’s it. No inactivity fees or fees that incentivize active trading of your portfolio.
 
-### Buy broad-market index funds or ETF
+## Buy broad-market index funds or ETF
 
 OK, now you have found a place to put your money in. But whatever it is that I need to buy now?
 
@@ -123,9 +125,9 @@ Personally, here is how I have allocated all my investment money:
 
 - **30%** in total bond market — SPDR Portfolio Aggregate Bond ETF **(SPAB)**
 
-Having built your total market portfolio, you could have a less than 5% as your ‘play money’ betting on stocks but no more than that! 🙅
+Having built your total market portfolio, you could have a less than 5% as your ‘play money’ betting on stocks but no more than that!
 
-### Stay the course
+## Stay the course
 
 Once you have your total market portfolio, now all you need to do is to **stay the course **and contribute a lump sum once in a while to avoid incurring broker trade fees.
 
@@ -135,7 +137,7 @@ You could re-balance yearly or quarterly or do the tax-loss harvesting, but thei
 
 You are supposed to hold your market portfolio forever, only withdrawing it when you are retired. Don’t sell or buy it. Don’t touch it! 🌄
 
-### Some other advises
+## Some other advises
 
 - Pay yourself first to build a 6-month worth of ‘emergency fund’.
 

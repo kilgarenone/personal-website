@@ -1,8 +1,13 @@
 ---
 layout: base-layout.njk
 ---
+
 <article>
+<div style="margin-bottom:6rem">
   <h1>{{ title }}</h1>
+  <small style="margin-bottom:5rem">
   <time datetime="{{ date | dateIso }}">{{ date | dateReadable }}</time>
+  </small>
+</div>
   {{ content | safe }}
 </article>

@@ -1,11 +1,9 @@
 ---
 layout: post-layout.njk
-title: Be Less Efficient
+title: Be less efficient, but more civilized
 date: 2018-11-20
 tags: ["post"]
 ---
-
-But more civilized
 
 The world is out of control. Humanity — from individual to groups to nation-state level — is doing all sorts of preternatural activities in the name of ‘innovation’, ‘competitive disruption’, ‘economic growth’, ‘self-help’ etc.
 
