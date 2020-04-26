@@ -1,7 +1,7 @@
 ---
 layout: post-layout.njk
 title: Be less efficient, but more civilized
-date: 2018-11-20
+date: 2019-11-10
 tags: ["post"]
 ---
 
