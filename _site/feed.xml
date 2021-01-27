@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Nonsense stuff from a random dude called Kheoh Yee Wei</title>
+  <subtitle>Stuff I write in my filter bubble</subtitle>
+  <link href="https://kheohyeewei.com/feed.xml" rel="self"/>
+  <link href="https://kheohyeewei.com/"/>
+  <updated>2019-11-10T08:00:00+08:00</updated>
+  <id>https://kheohyeewei.com/</id>
+  <author>
+    <name>Kheoh Yee Wei</name>
+    <email>oldjoy@protonmail.com</email>
+  </author>
+  
+  <entry>
+    <title>Humane personal finance guide</title>
+    <link href="https://kheohyeewei.com/posts/personal-finance/"/>
+    <updated>2018-11-20T08:00:00+08:00</updated>
+    <id>https://kheohyeewei.com/posts/personal-finance/</id>
+    <content type="html">&lt;p&gt;This article doesn’t contain any ‘pro-tips’ or ‘methods’ or ‘analysis’ on gaining from the stock market quickly. No, rather, this is an investment guide for average people who don’t — or won’t or can’t — participate actively and emotionally in the stock markets.&lt;/p&gt;
+&lt;p&gt;I will try to articulate few of my &lt;em&gt;current&lt;/em&gt; thought patterns that have guided me on managing and thinking about my personal finance. So please tread carefully with &lt;em&gt;open-minded&lt;/em&gt; skepticism. 🌈&lt;/p&gt;
+&lt;h2&gt;The world is insanely complex&lt;/h2&gt;
+&lt;p&gt;You will find academic papers, pundit blog posts, articles, smackdown on Bloomberg etc. that ostensibly came to a conclusion on a financial affair. Now &lt;em&gt;ideally&lt;/em&gt;, you would want to review their accuracy yourself or refer to a trusted journal. But, can you trust yourself or even the journalists being completely infallible at all times?&lt;/p&gt;
+&lt;p&gt;If the answer was as ‘Nope’ as mine was, then what I tend to do now is to remind myself of the possibilities that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The studies were conducted in a sanitized lab environment that was fed with idealized parameters in order to fit a running narrative.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The pundit and authors did not have your personal finance best-interest in mind. Why would they? They have no ‘skin in the game’ with respect to your money. They are more interested in &lt;strong&gt;selling&lt;/strong&gt; in general, be it advertisement with their click-bait headline, or commission they would earn.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The media needed to dramatize their show to increase viewership and hence advertisement.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You might think that modeling methods like the &lt;strong&gt;Monte Carlo simulation&lt;/strong&gt; or &lt;strong&gt;backtesting&lt;/strong&gt; could guide our financial decision making. Yes, in a broad sense, modeling is really the best tool we have at our disposal to &lt;em&gt;approximate&lt;/em&gt; the complex reality.&lt;/p&gt;
+&lt;p&gt;However, we need to be aware of its potential pitfalls:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The issue of &lt;strong&gt;overfitting&lt;/strong&gt;—Having a model that seemingly traces the historical data points nicely, but extremely unreliable to predict the future.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Determination of the &lt;strong&gt;complexity sweet spot&lt;/strong&gt; — for example, the number of relevant factors that we need to take into account of to make a confident prediction.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How &lt;strong&gt;trustworthy&lt;/strong&gt; were the relevant factors, and how &lt;strong&gt;error-prone&lt;/strong&gt; we are when estimating them? Mistakes made here will unpredictably increase risk.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mainstream modeling also tend to ignore the main dynamic in our economics which is the &lt;strong&gt;human psychology&lt;/strong&gt; or what Robert Shiller would call ‘&lt;a href=&quot;https://www.amazon.com/Animal-Spirits-Psychology-Economy-Capitalism-ebook/dp/B0037YLBMM/ref=redir_mobile_desktop?_encoding=UTF8&amp;amp;dpID=9194jWyr0JL&amp;amp;dpPl=1&amp;amp;psc=1&amp;amp;refRID=ZXRRDW8ZKYBNDTP1JA3E&amp;amp;ref_=pd_aw_sbs_351_3&quot;&gt;animal spirit&lt;/a&gt;’. Until then, I would treat them as an exercise of theoretical purity that lacks bearing on the physical world.&lt;/p&gt;
+&lt;p&gt;Now, we have seen the following proverb commonly found in the fine print of funds’ prospectus:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The Fund’s past performance (before and after taxes) is not necessarily an indication of how the Fund will perform in the future.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;But we tend to think along these lines instead:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;“i swear, this time it will be different! i just know it!”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“damn! it’s been going up since last Friday! I want in on this before it’s too late!”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“oh look, this fund has had great performances year after year! I mean look at the chart, you see?!”&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To understand how those thought patterns came about, we need to now shed light on our human nature that are often taken advantage by today’s special interest groups. 😧&lt;/p&gt;
+&lt;h2&gt;We are born with cognitive biases&lt;/h2&gt;
+&lt;p&gt;It has been &lt;a href=&quot;https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18&quot;&gt;well-documented&lt;/a&gt; that humans are prone to perceive and make judgements that are, in hindsight, irrational.&lt;/p&gt;
+&lt;p&gt;In a blink of an eye on our evolutionary timeline, we have constructed a world that is conducive to amplifying our instincts to our own detriments.&lt;/p&gt;
+&lt;p&gt;For example, the mutual fund industry has been largely &lt;a href=&quot;http://johncbogle.com/wordpress/wp-content/uploads/2007/05/FIASI_4-07.pdf&quot;&gt;driven by salesmanship&lt;/a&gt;, ever more so steering away from the spirit and duty of stewardship in serving investors’ best interest. And one surefire way to increase sales of fund’s shares is to trip up our emotions, perception, and fears of uncertainty. For example, &lt;a href=&quot;https://www.investopedia.com/articles/02/013002.asp&quot;&gt;a fund would commit the Survivalship Bias&lt;/a&gt; by removing, merging, and even renaming their under-performing funds in their report, giving the impression to potential investors that ‘wow! next year gonna be a good year too!’, thus making us well primed to buy into the fund.&lt;/p&gt;
+&lt;p&gt;Another sign of the time screaming salesmanship in the fund industry is the niche industry sector like clean-energy funds, or personality targeted ‘I wanna signal I have a moral high ground’ funds, or beta whatever it means funds. All of these products were designed to aid and abet to our worst instincts — and, we know that selling often go hand in hand with advertising, and guess who ends up paying for all that initiatives? Yes, you! The fund’s investor.&lt;/p&gt;
+&lt;p&gt;Another way our brain can play tricks on us is evident when we are looking at data like P/E ratio or uptick charts expecting it’s telling us a story or insight.&lt;/p&gt;
+&lt;p&gt;As &#39;big data’ and machine learning has become increasingly popular, we are now led to believe to have our decision and insights driven by the data. But &lt;a href=&quot;https://medium.com/microsoft-design/if-you-want-to-be-creative-dont-be-data-driven-55db74078eda&quot;&gt;&#39;data&#39; alone without context is just meaningless information&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We might then be tempted to provide it context, trying to give it a &#39;body’, a &#39;persona’, a trained model that fits a data set, in short, a story that we can all rally behind to. However, during that process, we need to be extremely careful that we don’t fall for our biases to look for stories that never existed.&lt;/p&gt;
+&lt;p&gt;Now, for argument’s sake, let’s pretend we weren’t susceptible to cognitive biases at all. Which brings us to luck…&lt;/p&gt;
+&lt;h2&gt;Luck&lt;/h2&gt;
+&lt;p&gt;Luck is an underestimated factor in many aspects of human affair — From being born with great or average looks, savant or mediocre intellectual capacity and ability, into good or abusive family, into stimulating or slummy places, to the resultant extent of exploration or exploitation of an environment that will shape who you are and position in society, and to finally, the performances of a mutual fund manager.&lt;/p&gt;
+&lt;p&gt;It’s well known that the majority — &lt;a href=&quot;https://us.spindices.com/documents/spiva/spiva-us-mid-year-2017.pdf&quot;&gt;in the ballpark of 80–90%&lt;/a&gt; — of  actively managed funds will &lt;a href=&quot;https://www.ft.com/content/6b2d5490-d9bb-11e6-944b-e7eb37a6aa8e&quot;&gt;under-perform their benchmarks&lt;/a&gt; over a 5 to 10 years period. Mutual fund managers are humans too, and as discussed, they are undoubtedly shackled to their human nature in responding to fears, uncertainty, and incentives, all of which are culminated in timing the markets and huge portfolio turnover, and thereby incurring unnecessary costs and taxes on us!&lt;/p&gt;
+&lt;p&gt;Mutual fund managers, like Peter Lynch, who can consistently out-perform benchmark over the long term is &lt;em&gt;extremely&lt;/em&gt; rare. Not only you need to pick the right manager, the manager herself would need to be picking stocks at the right time and place, be able to digest tons of information to build an accurate narrative consistently, and pull it off year after year. This is not something a mere mortal with 9–5 job is capable of even though for no reason they ended up on the right side of luck!&lt;/p&gt;
+&lt;h2&gt;Financial planning&lt;/h2&gt;
+&lt;p&gt;OK, so far, things are looking really bleak.&lt;/p&gt;
+&lt;p&gt;What are we going to do about it? How would an average person build her wealth and go on live her life in a world where we can’t trust ourselves and the financial charlatans out there?&lt;/p&gt;
+&lt;p&gt;Well, the answer is to just don’t play the &lt;a href=&quot;https://www.businessinsider.com/finally-some-excellent-investment-advice-2011-12/?IR=T&quot;&gt;loser’s game&lt;/a&gt; while keeping it extremely simple — buy and hold broad index stock and bond funds and just stay the course! That’s it. That way it keeps biases, temptation and whispers at bay while giving you the best shot at faring better than more than 80% of the mutual fund managers.&lt;/p&gt;
+&lt;p&gt;Alright, here is how we are going to do it.&lt;/p&gt;
+&lt;h2&gt;Split your money into stocks and bonds&lt;/h2&gt;
+&lt;p&gt;First of all, you would find some people advocating for exercising asset allocation as a first step to your investment journey. There is a few school of thoughts on how to go about it.&lt;/p&gt;
+&lt;p&gt;One popular approach is to split your fund allocation percentages based on which life stages you are on. The theory is that, each life stages could mean different level of risk capacity and risk willingness. For example, if you are in your 20s, then you might want to put more money in risky and volatile assets like stocks because of 2 reasons — one is that you would have more time to recover from mistakes and market downturns, and second, you wouldn’t have much funds to invest anyway so you don’t have much to lose.&lt;/p&gt;
+&lt;p&gt;Another popular approach is allocate a percentage of whatever your current age is into bonds, and the rest goes to stocks. For example, if you are 25 years old, then you will invest 25% into bonds and 75% into stocks.&lt;/p&gt;
+&lt;p&gt;However, I would just do 50% in bonds and 50% in stocks. You might be thinking “wut, fiddy-fiddy?? you serious?!”. But a simple heuristic like that is actually one of the few best strategies to coping in a complex world. Harry Markowitz, pioneer of the ‘modern porfolio theory’ that won him Nobel prize , alluded to this effect &lt;a href=&quot;http://jasonzweig.com/what-harry-markowitz-meant/&quot;&gt;as well&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I should have computed the historical co-variances of the asset classes and drawn an efficient frontier. Instead, I visualized my grief if the stock market went way up and I wasn’t in it–or if it went way down and I was completely in it. My intention was to minimize my future regret. So I split my contributions 50/50 between bonds and equities.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;But, you know, you could always tilt towards stocks if it doesn’t prevent you from a sound sleep at night.&lt;/p&gt;
+&lt;h2&gt;Choose a cheap broker&lt;/h2&gt;
+&lt;p&gt;Now you are going to need a funds provider or broker to invest your money.&lt;/p&gt;
+&lt;p&gt;If you are lucky to have Vanguard operating in where you live, then go for it! Otherwise, choose a broker with no hidden but transparent fees.&lt;/p&gt;
+&lt;p&gt;Personally, I don’t have access to Vanguard, so I went with TD Ameritrade which charges only for a fee of 6.95USD per trade. That’s it. No inactivity fees or fees that incentivize active trading of your portfolio.&lt;/p&gt;
+&lt;h2&gt;Buy broad-market index funds or ETF&lt;/h2&gt;
+&lt;p&gt;OK, now you have found a place to put your money in. But whatever it is that I need to buy now?&lt;/p&gt;
+&lt;p&gt;Well, one central tenet in passive investing is to earn as closest to &lt;strong&gt;total&lt;/strong&gt; stock market returns before costs. And investing in index funds or broad-market based ETF is a perfect tool to not only achieve whatever market returns to us, they also increase your net gain with their &lt;strong&gt;low expense ratio and tax costs.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At risk of committing the &lt;a href=&quot;https://en.wikipedia.org/wiki/Authority_bias&quot;&gt;Authority Bias,&lt;/a&gt; here is &lt;a href=&quot;https://www.marketwatch.com/story/the-5-times-warren-buffett-talked-about-index-fund-investing-2017-04-28&quot;&gt;a quote&lt;/a&gt; from Warren Buffett about index fund:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A low-cost fund is the most sensible equity investment for the great majority of investors. My mentor, Ben Graham, took this position many years ago, and everything I have seen since convinces me of its truth.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A great selection of ETF you can buy from TD Ameritrade &lt;a href=&quot;https://www.bogleheads.org/wiki/TD_Ameritrade&quot;&gt;can be found here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Personally, here is how I have allocated all my investment money:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;35%&lt;/strong&gt; in total stock market — SPDR Portfolio Total Stock Market ETF &lt;strong&gt;(SPTM)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;35%&lt;/strong&gt; in total international market — SPDR Portfolio Developed World ex-US ETF &lt;strong&gt;(SPDW)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;30%&lt;/strong&gt; in total bond market — SPDR Portfolio Aggregate Bond ETF &lt;strong&gt;(SPAB)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Having built your total market portfolio, you could have a less than 5% as your ‘play money’ betting on stocks but no more than that!&lt;/p&gt;
+&lt;h2&gt;Stay the course&lt;/h2&gt;
+&lt;p&gt;Once you have your total market portfolio, now all you need to do is to **stay the course **and contribute a lump sum once in a while to avoid incurring broker trade fees.&lt;/p&gt;
+&lt;p&gt;It’s important to note that if you were not investing in the ‘index funds’ like those found in Vanguard, you would most likely be buying ETF, which behaves like a stock, from a broker, in which case, it’s important never to succumb to actively buying and selling them.&lt;/p&gt;
+&lt;p&gt;You could re-balance yearly or quarterly or do the tax-loss harvesting, but their benefits are, if not significant, debatable.&lt;/p&gt;
+&lt;p&gt;You are supposed to hold your market portfolio forever, only withdrawing it when you are retired. Don’t sell or buy it. Don’t touch it! 🌄&lt;/p&gt;
+&lt;h2&gt;Some other advises&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Pay yourself first to build a 6-month worth of ‘emergency fund’.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Put money in fixed-deposit or certificate of deposit that you might need in less than 5 years.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Maximize your EPF or employer 401k match.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Spend within your means.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Limit spending on vanity stuff.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It’s never too early or too little to start investing thanks to the power of compounding interest, which is also the reason why it beats investing late but in larger amount.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reduce screen time and social media consumption.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Our limited capacity for ‘attention’ is the new commodity. &lt;a href=&quot;https://www.youtube.com/watch?v=C74amJRp730&quot;&gt;Spend it wisely&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stay away from debt except when buying a family house if you must.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pay all your debts first.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Buy second-hand cars.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Save more than you spend.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Explore cheaper leisure activities like picnic or flying kite or walk in the park.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Keep learning to level up your marketable skills for higher salary(higher investment contribution too) and options in life.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stay healthy. Eat well. Exercise regularly. Good quantity and quality of sleep. Drink more water.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Good luck and take care. ●&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Slower web development</title>
+    <link href="https://kheohyeewei.com/posts/slower-web-development/"/>
+    <updated>2019-02-26T08:00:00+08:00</updated>
+    <id>https://kheohyeewei.com/posts/slower-web-development/</id>
+    <content type="html">&lt;p&gt;Lately, I have read stuff that have made web development a lot more of a nuanced craft for me. It mostly concerns ethics, sustainability, web standards, and the open web platform itself.&lt;/p&gt;
+&lt;p&gt;From surveillance capitalism to impending global climate collapse, questions of &lt;strong&gt;ethics&lt;/strong&gt; and &lt;strong&gt;sustainability&lt;/strong&gt; have become more prominent in public consciousness lately. Increasingly, they need to be taken into account in our decision-making process. And that includes web development!&lt;/p&gt;
+&lt;p&gt;Caring about web performances, bundle sizes, semantic, accessibility to people with different genetic makeup and circumstances — these things affect &lt;a href=&quot;https://timkadlec.com/remembers/2019-01-09-the-ethics-of-performance/&quot;&gt;lives&lt;/a&gt; and &lt;a href=&quot;https://serving.green/&quot;&gt;environment&lt;/a&gt;. Admittedly, they are not easy — or even realistic given the current pervasive break-neck culture — to carry out, but learning, advocating and doing them in the daily live as a developer would be, in my opinion, a good practice to build the character, attitude and sensibility that would prove to be useful when we impact the world outside of our job.&lt;/p&gt;
+&lt;p&gt;The following sections are the few areas in front-end development that I think currently violate ethics and sustainability, and how they were due to eschewing the web standards and platform itself, largely in favor of developer’s experience(DX) rather than user’s experience(UX). I should also add that much of this was written from the perspective of a ‘&lt;a href=&quot;https://www.indiehackers.com/&quot;&gt;indie hacker&lt;/a&gt;’/designer; I&#39;m most likely missing something and you might disagree with the technicalities, but please try to consider their implications in terms of ethics and sustainability &lt;strong&gt;in a broader context&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2&gt;CSS&lt;/h2&gt;
+&lt;p&gt;The first big one that I don’t see more people talking about is the ubiquitous usage and butchering of CSS &lt;strong&gt;classes&lt;/strong&gt;. Do you know that classes were never really meant for styling in the markup level? Classes should be used mainly for grouping elements, doing layout, and the occasional styling of element’s states — if you must — for example giving a button red background color.&lt;/p&gt;
+&lt;p&gt;Here is what the web standard body W3C have to &lt;a href=&quot;https://www.w3.org/TR/WD-css2-971104/selector.html#h-6.3.2&quot;&gt;say in that regard&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;CSS gives so much power to the “class” attribute, that in many cases it doesn’t matter what HTML element the class is set on — you can make any element emulate almost any other. Relying on this power is not recommended, since it removes the level of structure that has a universal meaning (HTML elements). A structure based on “class” is only useful within a restricted domain, where the meaning of a class has been mutually agreed upon.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Here are two instrumental articles that upended my worldview on front-end development:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://alistapart.com/article/meaningful-css-style-like-you-mean-it&quot;&gt;Meaningful CSS: Style Like You Mean It&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/&quot;&gt;CSS Inheritance, The Cascade And Global Scope: Your New Old Worst Best Friends&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My takeaway from those two articles was: you know those cutting edge CSS practices and tools like the &lt;strong&gt;BEM&lt;/strong&gt;, &lt;strong&gt;OOCSS&lt;/strong&gt;, &lt;strong&gt;Tailwind CSS&lt;/strong&gt;, and &lt;strong&gt;CSS-in-JS&lt;/strong&gt; libraries? Well, you don’t need them! Here are the reasons: they bloat web pages, make pages less semantic, make front-end development less accessible to HTML/CSS trained designer/developer folks, and dramatically increase the learning curve and barrier of entry for new people. Always try to leverage CSS’s built-in mechanism! Read the articles!&lt;/p&gt;
+&lt;p&gt;We don’t need more CSS frameworks too. They bloat. Think twice before throwing in Bootstrap’s massive load of classes. If you have read the two articles shared above, you would have an idea styling your UI components. You don’t have to do it all in one huge index.css file either; you can break it up into individual[component_name].css files, then put them together with webpack.&lt;/p&gt;
+&lt;p&gt;Also avoid any frameworks for CSS Flexbox and CSS grid because themselves &lt;a href=&quot;https://youtu.be/0Gr1XSyxZy0?t=508&quot;&gt;are the framework&lt;/a&gt; already! And to complete this crusade, hell, avoid &lt;strong&gt;SCSS&lt;/strong&gt; too! Instead, opt for &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/CSS/calc&quot;&gt;calc&lt;/a&gt; and &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables&quot;&gt;custom variables&lt;/a&gt;. Lots of people fancy the nesting capability in SCSS. I get it, I loved it too — it’s convenient and it just seemed so…logical. But if you nest according to the markup, it quickly gets out of hand, producing long chained selectors, bloating CSS files and reduces CSS parsing performance in the browser.&lt;/p&gt;
+&lt;p&gt;However, I do realize that SCSS would help maintainability in some use cases, such as &lt;a href=&quot;https://codepen.io/MadeByMike/pen/bEEGvv&quot;&gt;building a fluid typography&lt;/a&gt; system. And if I do use it, I would remind myself not to add too many abstractions(that reminds me of the &lt;a href=&quot;https://kentcdodds.com/blog/aha-programming&quot;&gt;AHA programming&lt;/a&gt; principle); keep it readable for entry-level programmers. 💌&lt;/p&gt;
+&lt;h2&gt;Javascript&lt;/h2&gt;
+&lt;p&gt;I have also started weighing rigorously the merits of &lt;strong&gt;front-end frameworks&lt;/strong&gt;, specifically &lt;strong&gt;React&lt;/strong&gt;, before using one in my projects.&lt;/p&gt;
+&lt;p&gt;Until recently, I had always been a big believer in React and its popular tool chain &#39;create-react-app&#39; that makes bootstrapping a React app a breeze for developers, for no reasons other than their popularity and convenience afforded to developers in terms of shorter development time and its entrenched ecosystem— useful community’s guides, support, and libraries.&lt;/p&gt;
+&lt;p&gt;However, I have come to accept that these frameworks bloat, big time at that, to the detriment of end users, especially those with low-end devices(You ever used Typeform on a Moto G? Yeah it wasn&#39;t great I can tell you that). It gets worse when you throw in those ready-made libraries in the ecosystem, passing down the &lt;a href=&quot;https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4&quot;&gt;cost of Javascript&lt;/a&gt; to end users. Bottom line is, the wellness afforded to developers doesn’t necessarily trickle down to the end users.&lt;/p&gt;
+&lt;p&gt;We need to be more careful about this.&lt;/p&gt;
+&lt;p&gt;Further, there is a more pernicious effect of being a major user of a particular web framework: My whole intellect had been unwittingly locked into their walled-garden ecosystem: I spent so many hours doubled down on React, reading tons of articles on best practices and the ever changing suite of libraries that have gained traction in the community, to a point that I had forgotten about the existence of web standards and how much they had advanced since the peak of jQuery boom. If React and create-react-app were to disappear or fallen out of favor one day(and they will), I would have to start the learning process all over again, but this time dictated by a new throne and the influential thoughtleaders.&lt;/p&gt;
+&lt;p&gt;Well, guess what, now I have changed my ways.&lt;/p&gt;
+&lt;p&gt;I have gotten into the habit of looking for frameworks that are ‘closer to the metal’; those that are &lt;strong&gt;lightweight&lt;/strong&gt; and respect the web standards, in this context, the native &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/Web_Components&quot;&gt;Web Component&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here is a good place to start on Web component:
+&lt;a href=&quot;https://open-wc.org/&quot;&gt;open-wc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Other promising alternatives to React that are both lightweight and performant are &lt;a href=&quot;https://github.com/jorgebucaran/hyperapp&quot;&gt;hyperapp&lt;/a&gt; and &lt;a href=&quot;https://preactjs.com/&quot;&gt;preact&lt;/a&gt; although they are not exactly web standard compliant, plus, due to their implementation of Virtual DOM, they won’t be exactly kind to the precious resources of billions of users who happened to be born outside of the &lt;a href=&quot;https://www.smashingmagazine.com/2017/03/world-wide-web-not-wealthy-western-web-part-1/&quot;&gt;Western Wealthy Web&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;VDOM diffing is just one of many examples of a framework choosing developer experience or simplicity of implementation over being frugal with their end-user’s resources. — &lt;a href=&quot;https://dassur.ma/things/when-workers/&quot;&gt;source&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I have also stopped using ‘create-react-app’ to bootstrap my projects. I choose to learn to wire things up to solve my specific immediate needs. However, I need to be careful that I &lt;strong&gt;don’t fall to the temptation&lt;/strong&gt; of ‘reinventing the wheels’. I would search for narrow-focused, utilitarian, nano-size, framework-agnostic libraries as those utilized by the &lt;a href=&quot;https://github.com/choojs/choo&quot;&gt;choojs&lt;/a&gt; framework. If the libraries are actively maintained, perfect. Otherwise, due to their small footprint in codes, I would be able to study their arts before I fork them. Though, should I failed to wrap my head around their codes, then I would be forced whipping one up myself.&lt;/p&gt;
+&lt;p&gt;For example, I most likely wouldn’t reinvent another state management solution like Redux even though I think I can pull it off myself, because Redux is already best at that without sacrificing extensibility. Another wheel you shouldn’t re-invent is authentication and encryption even though you &lt;em&gt;think&lt;/em&gt; you can unless you are an expert in those particular domains.&lt;/p&gt;
+&lt;h2&gt;Finding the Balance 🌄&lt;/h2&gt;
+&lt;p&gt;So how do we find a balance that meets our criterion for ethics, sustainability, and respects for web standards in this culture of relentless growth?&lt;/p&gt;
+&lt;p&gt;Although resourceful companies have been making their own strides in recognition of these issues, for budding businesses, I don’t see how we can meet halfway in the current climate of obsession for rocket-ship/hockey stick growth and “&lt;a href=&quot;https://medium.com/@nateliason/no-more-struggle-porn-202153a01108&quot;&gt;struggle porn&lt;/a&gt;” where the “move fast and break things” ethos is deeply entrenched.&lt;/p&gt;
+&lt;p&gt;How do we adapt our business and personal aspiration with respect to these new expectations while taking care of everyone’s mental health well-being?&lt;/p&gt;
+&lt;p&gt;Because let’s face it, doing things right and ethical from the very beginning won’t fit into the time frame of today’s sprints.&lt;/p&gt;
+&lt;p&gt;In the face of perilous state of the world that&#39;s been incurring debts from the future for a very long time, those today who are in a privileged position— designers, developers, policy makers, entrepreneurs and capitalists— has a chance to accept that the growth process need to be &lt;a href=&quot;https://jackcheng.com/the-slow-web/&quot;&gt;slow&lt;/a&gt;, introspective and culturally meaningful rather than reckless, pompous, and presumptuous. And only then, will we ever be able to be proud of our works in every sense of the word. ●&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Be less efficient, but more civilized</title>
+    <link href="https://kheohyeewei.com/posts/be-less-efficient/"/>
+    <updated>2019-11-10T08:00:00+08:00</updated>
+    <id>https://kheohyeewei.com/posts/be-less-efficient/</id>
+    <content type="html">&lt;p&gt;The world is out of control. Humanity — from individual to groups to nation-state level — is doing all sorts of preternatural activities in the name of ‘innovation’, ‘competitive disruption’, ‘economic growth’, ‘self-help’ etc.&lt;/p&gt;
+&lt;p&gt;They are not natural from the perspective of our millions years of evolutionary history. Since the industrial revolution almost 200 years ago, our biological and psychological makeup have been turned on their head at an unprecedented accelerating rate. We have extended our evolved propensity to an uncharted but extremely profitable territory. Throughput — in terms of market share, quarterly reports, GDP, sales funnels, paper market-value — had become the measure of success. To that end, all means are justified, all converging to the goal of being &lt;strong&gt;E.F.F.I.C.I.E.N.T&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Because by not being efficient yourself while everybody else is, you run the risk of losing ground socio-economically. This is a powerful narrative particularly in an unequal and corrupted social environment.&lt;/p&gt;
+&lt;p&gt;And so, the unlucky of us reluctantly, or unwittingly, embraced the mission to be ever more efficient in many aspects of daily lives. We feed ourselves all sorts of new stuff— ready-made foods, iconoclast, fads, sound bites, diets, life-hacks, affiliation, religion, shiny jobs, virtue signaling. They constitute individual identity and ego that give life to any narrative that would help us to efficiently make sense of the world. And many of us who were unable to cope, plunged to a very dark corner of our mental landscape.&lt;/p&gt;
+&lt;p&gt;On the other hand, the privileged of us took it as an opportunity to further our gains. In the name of efficiency, we espouse free-market economy logic across the globe. Raging on our rich-get-richer momentum, we proceed to capture regulatory, democratic, and financial apparatus. The most glaring example of this is the gig-economy startups operating in a winners-take-all market — That the only way to win the game is to derive war chest from dubious financial engineering, giving artificial life-support to their business model that wouldn’t otherwise have survived in a natural environment with limited resources. They desire to be an aggregator that acts as a gatekeeper that small businesses and the rest of us have no choice but to play by their book because they say it’s efficient and therefore good for their business too.&lt;/p&gt;
+&lt;p&gt;Ironically, the novel things that modern humans do today are in a sense natural and rational. Humans have evolved to be equipped to reproduce. To reproduce with an optimal mate, you not only need to be naturally selected, but sexually selected. If you are alive and born healthy today, you had already been naturally selected barring medical intervention. It’s the sexual selection process that will largely determine whether you will get to pass on your genes in your lifetime. And that means gaining status, money, power, and other modern manifestations— such as hustler, gym rats, entrepreneur, careerist, politicking— that act as a proxy which will signal your fitness to the desirable mates. So, if you refuse to do any of that stuff while everybody else does, you risk losing access to the limited desirable mates. So you do it. And you gotta do it…efficiently. Because that’s the way to win the ‘game’ — one of the many games in different disguises of the one and only game: the mating game. It’s just that in recent decades we have brought on a whole load of novel DLCs that accentuate our inherent propensity to mate and gain status.&lt;/p&gt;
+&lt;p&gt;So, I’m not saying that striving to be efficient in things that we do is wrong and irrational. I’m saying that we need to be very careful when introducing novel activities to a setting inhabited by humans still operating in an archaic biological and psychological makeup. In a broader sense, we need to recognize the potential negative secondary effects when doing so. In the case of food delivery startups, surely they are delivering good values to consumers and giving access to an audience for small businesses that they otherwise wouldn’t have. But they come with secondary effects which we need to scrutinize— Drivers and riders are driven to precarious and dangerous jobs without next to non-existent safety nets; Small restaurant businesses are forced to shut their business due to the aggregators eating up their already small margin; Consolidation of gig-economy startups leads to unbalanced power socially and politically who only have their private stakeholders to answer to; Workers are reduced to ratings and reviews; Social interaction becomes overtly transactional.&lt;/p&gt;
+&lt;p&gt;So there are unintended secondary consequences resulting from being a servant to efficiency in market, business, lifestyle, governance. We run into the free-riders and tragedy of the commons problems whose participants are just being efficient to their own interests. Shackled by human nature, we will always be tempted to be efficient in a winners-take-all environment.&lt;/p&gt;
+&lt;p&gt;Ultimately, we lose the social intuitions because we have stopped reinventing the wheels. At the end of this efficiency bandwagon, we are faced with the inevitable outcome which is the outright destruction of global environment and social fabrics. Humans were never evolved to be concerned about the global environments, let alone those alien looking people in a foreign land. We are too preoccupied by our lifetime achievements and relative social standing in our local environment.&lt;/p&gt;
+&lt;p&gt;The solutions to stop the contagiousness of this efficiency narrative are, ironically, an unnatural one. We need to start holding our actions accountable to ethics and sustainability. Tech startups need to dial back on their scaling and their bogus narratives abetted by cheap money. Grow slowly. Bound the spill-over of your repercussions. Work with the government and communities. It’s a frustrating, inefficient process but a responsible process. And contrary to the free-market zealot, we need more government regulation. They might be wasteful and inefficient, but at least the system is &lt;strong&gt;robust&lt;/strong&gt; and &lt;strong&gt;just&lt;/strong&gt;. We need more taxes. Taxes on generational wealth. Carbon taxes. Start putting a price on externalities. We need inefficient and slow enforcement. GDP will go down. We will see less iteration of iPhones. We will become poorer. But we trade all that for a breathable, robust and just world until humans become interstellar species.&lt;/p&gt;
+&lt;p&gt;Thinking along these ideals won’t be palatable to us because we are largely not wired for that. But it is our only chance to really have a better world. If we refused to do so, we need to rightly tell it like it is — We don’t really buy into our whole narrative of building a better world, and instead, what we really ever believed in was our selfish personal achievements, in our own lifetime, at all costs, by any means necessary — That would be what all that really was. Period. ●&lt;/p&gt;
+</content>
+  </entry>
+</feed>
