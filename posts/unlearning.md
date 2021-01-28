@@ -1,6 +1,6 @@
 ---
 title: Unlearning
-date: 2021-01-27
+date: 2021-01-28
 ---
 
 My [last post](https://kheohyeewei.com/posts/be-less-efficient/) was about unlearning the gospel of 'efficiency' while remaining 'civilized'. This post is about unlearning the whole 'civilized' itself because since then I have learned new insights about our global industrialized civilization that's imbued with colonialistic force against all life on earth.
