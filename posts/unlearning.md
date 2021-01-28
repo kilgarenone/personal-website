@@ -3,7 +3,7 @@ title: Unlearning
 date: 2021-01-27
 ---
 
-My [last post](https://kheohyeewei.com/posts/be-less-efficient/) was about unlearning the gospel of 'efficiency' while remaining 'civilized'. This post is about unlearning the whole 'civilized' itself.
+My [last post](https://kheohyeewei.com/posts/be-less-efficient/) was about unlearning the gospel of 'efficiency' while remaining 'civilized'. This post is about unlearning the whole 'civilized' itself because since then I have learned new insights about our global industrialized civilization that's imbued with colonialistic force against all life on earth.
 
 Human activities in recent decades have egregiously [disrupted](https://guymcpherson.com/climate-chaos/climate-change-summary-and-update/) the earth's life-supporting systems from which all forms of life&mdash;including human&mdash;had evolved. Everything existed in perfect harmony in their own niche within natural constraints until the invention of technology particularly agriculture which has led to the cycle of boom and bust of human civilizations.
 
