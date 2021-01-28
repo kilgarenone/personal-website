@@ -47,4 +47,4 @@ Dance. Play. Love. You. Me. Us. Now. Here.
 
 That's it.
 
-And that's enough.
+And that's enough. ●
