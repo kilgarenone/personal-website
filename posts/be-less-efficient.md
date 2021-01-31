@@ -30,4 +30,4 @@ Thinking along these ideals won’t be palatable to us because we are largely no
 - [https://www.tbray.org/ongoing/When/202x/2020/07/05/Too-Efficient](https://www.tbray.org/ongoing/When/202x/2020/07/05/Too-Efficient)
 - [https://www.schneier.com/blog/archives/2020/07/the_security_va.html](https://www.schneier.com/blog/archives/2020/07/the_security_va.html)
 - [https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better](https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better)
-- [https://getpocket.com/explore/item/why-time-management-is-ruining-our-lives?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-116](https://getpocket.com/explore/item/why-time-management-is-ruining-our-lives?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-116)
+- [https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives](https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives)
