@@ -24,3 +24,10 @@ Ultimately, we lose the social intuitions because we have stopped reinventing th
 The solutions to stop the contagiousness of this efficiency narrative are, ironically, an unnatural one. We need to start holding our actions accountable to ethics and sustainability. Tech startups need to dial back on their scaling and their bogus narratives abetted by cheap money. Grow slowly. Bound the spill-over of your repercussions. Work with the government and communities. It’s a frustrating, inefficient process but a responsible process. And contrary to the free-market zealot, we need more government regulation. They might be wasteful and inefficient, but at least the system is **robust** and **just**. We need more taxes. Taxes on generational wealth. Carbon taxes. Start putting a price on externalities. We need inefficient and slow enforcement. GDP will go down. We will see less iteration of iPhones. We will become poorer. But we trade all that for a breathable, robust and just world until humans become interstellar species.
 
 Thinking along these ideals won’t be palatable to us because we are largely not wired for that. But it is our only chance to really have a better world. If we refused to do so, we need to rightly tell it like it is — We don’t really buy into our whole narrative of building a better world, and instead, what we really ever believed in was our selfish personal achievements, in our own lifetime, at all costs, by any means necessary — That would be what all that really was. Period. ●
+
+## Other blogposts in similar vein
+
+- https://www.tbray.org/ongoing/When/202x/2020/07/05/Too-Efficient
+- https://www.schneier.com/blog/archives/2020/07/the_security_va.html
+- https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better
+- https://getpocket.com/explore/item/why-time-management-is-ruining-our-lives?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-116
